@@ -1,0 +1,3 @@
+name = DCNJ Installation Profile
+description = DrupalCamp NJ Install Profile.
+core = 7.x
